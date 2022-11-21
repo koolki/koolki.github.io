@@ -23,7 +23,7 @@ last_modified_at: 2022-11-21
 언제나 그렇듯이 가까우면서도 은근히 거리가 있는 곳.   
 하지만 오래 걸리지는 않아서 가족들과 느긋하게 다녀올 만 하다.   
    
-![](https://user-images.githubusercontent.com/18319629/203053501-885e8858-5e58-4e94-8d1e-581e122a95aa.JPG)
+![](https://user-images.githubusercontent.com/18319629/203077766-8df316e5-df87-4b29-8a6c-17c79c03ceff.JPG)
 주차장이 많고 넓었는데 이미 차들이 많았다. 예배 드리러 온 사람들인가.   
 주차장에 터 잡고 뒹굴거리고 있는 고양이 가족이 있었다. 세 마리가 다 똑같이 생겼다.   
    
