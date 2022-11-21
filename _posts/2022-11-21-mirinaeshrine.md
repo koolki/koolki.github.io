@@ -1,12 +1,12 @@
 ---
 
-title:  "미리내 성지."
+title:  "미리내성지."
 excerpt: "미리내 성지라는 곳을 다녀왔다."
 
 categories:
  - Favorites
 tags:
- - [미리내성지,안성]
+ - [안성,미리내성지]
 
 toc: true
 toc_sticky: true
