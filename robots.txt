@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://koolki.github.io/sitemap.xml
