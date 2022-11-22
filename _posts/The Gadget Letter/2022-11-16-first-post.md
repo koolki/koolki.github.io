@@ -1,5 +1,4 @@
 ---
-
 title:  "첫 글"
 excerpt: "my first posting."
 
@@ -17,6 +16,7 @@ last_modified_at: 2022-11-17
 ---
 
 #### 블로그 시작
+
 첫 글. 🎮
 
 ##### 요즘 글 쓰는 일에 재미가 들렸다.
