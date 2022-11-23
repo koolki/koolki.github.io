@@ -3,6 +3,6 @@ layout: page
 type: about
 ---
 
-koolki   
-   
+koolki  
+  
 .Net, C#, python...  
