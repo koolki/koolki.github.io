@@ -3,9 +3,9 @@ title:  "Adeline Virginia Woolf(버지니아 울프), 자기만의 방"
 excerpt: "자기만의 방."
 
 categories:
- - Favorites
+ - book
 tags:
- - [book,woolf,버지니아울프]
+ - [에쎄이,woolf,버지니아울프]
 
 toc: true
 toc_sticky: true

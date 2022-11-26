@@ -5,7 +5,7 @@ excerpt: "my first posting."
 categories:
  - The Gadget Letter
 tags:
- - [blog, GitHub]
+ - [blog,GitHub]
 
 toc: true
 toc_sticky: true

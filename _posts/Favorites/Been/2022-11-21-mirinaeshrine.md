@@ -3,7 +3,7 @@ title:  "미리내성지."
 excerpt: "미리내성지."
 
 categories:
- - Favorites
+ - been
 tags:
  - [안성,미리내성지]
 

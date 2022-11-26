@@ -3,9 +3,9 @@ title:  "히가시노 게이고, 외사랑"
 excerpt: "외사랑."
 
 categories:
- - Favorites
+ - book
 tags:
- - [book,히가시노게이고]
+ - [소설,히가시노게이고]
 
 toc: true
 toc_sticky: true
