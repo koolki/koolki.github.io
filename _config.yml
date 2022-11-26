@@ -123,7 +123,7 @@ menu:
   archives: /archives/
   tags: /tags/
   sitemap: /sitemap.xml
-  commonweal: /404.html
+  # commonweal: /404.html
 
 
 # Enable/Disable menu icons.
@@ -141,7 +141,7 @@ menu_icons:
   tags: tags
   archives: archive
   sitemap: sitemap
-  commonweal: heartbeat
+  # commonweal: heartbeat
 
 
 
