@@ -17,7 +17,7 @@ last_modified_at: 2022-12-09
 ---
 >늘 그랬듯이 딱히 꼭 필요한 물건은 아니었다.
 
-<img src="https://user-images.githubusercontent.com/18319629/206703306-d40da2ad-61de-4971-b7b6-2bc421458e50.JPG" title="" alt="" width="400">  
+<img src="https://user-images.githubusercontent.com/18319629/206703306-d40da2ad-61de-4971-b7b6-2bc421458e50.JPG" title="" alt="" width="500">  
 
 ## 그냥 뭐 손목이 왠지 아픈 것 같았다. 회사에서만.
 그래서 그냥 아무런 생각도 없이 샀다. 다른 거 살 때는 천 원 아끼려고 여기저기 알아보는 난데, 왠일인지 이건 그냥 생각하자마자 공홈에서 샀다.  
@@ -29,6 +29,14 @@ last_modified_at: 2022-12-09
 난 지금 편한거다, 난 지금 편하다. 계속 암시 중임.  
 언젠가 미니맥 사는 날이 온다면 뭐 요긴하게 쓸 수도 있겠지. 아이패드에서도 되긴 되니까...  
 
-<img src="https://user-images.githubusercontent.com/18319629/206703331-35d9bb1f-5648-4af4-8249-e111b276fd67.JPG" title="" alt="" width="400">  
+<img src="https://user-images.githubusercontent.com/18319629/206703331-35d9bb1f-5648-4af4-8249-e111b276fd67.JPG" title="" alt="" width="500">  
 
-<img src="https://user-images.githubusercontent.com/18319629/206703346-c231f8b4-8ced-45d2-a896-a218fbe80b8c.JPG" title="" alt="" width="400">  
+<img src="https://user-images.githubusercontent.com/18319629/206703346-c231f8b4-8ced-45d2-a896-a218fbe80b8c.JPG" title="" alt="" width="500">  
+
+1. windows Bluetooth 설정에서 magic trackpad 추가
+2. [github.imbushuo](https://github.com/imbushuo/mac-precision-touchpad)에서 능력자들이 개발해놓은 드라이버를 받는다.
+3. latest realease 버전에서 amd64, arm64 중 자신에 맞는 것 다운로드(칩 차이같은데 windows 대부분 amd64이지 않을까, 이건 차이를 나중에 알아봐야겠다.)
+4. 압축을 풀고 ==AmtPtpDevice.inf==실행, 설치
+5. windows의 터치패드 설정 항목이 확장돼있다.
+
+## 결론:그리고 이제 맥을 쇼핑하면 된다...
