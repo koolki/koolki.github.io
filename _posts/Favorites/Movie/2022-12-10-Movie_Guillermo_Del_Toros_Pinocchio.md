@@ -16,7 +16,7 @@ last_modified_at: 2022-12-10
 
 ---
 
-<image src="https://user-images.githubusercontent.com/18319629/206830480-3c5e84bd-b45b-4901-a1cb-5a0445700a63.jpg" alt="" title="기예르모 델 토로, 피노키오" width="500">  
+<img src="https://user-images.githubusercontent.com/18319629/206830480-3c5e84bd-b45b-4901-a1cb-5a0445700a63.jpg" alt="" title="기예르모 델 토로, 피노키오" width="100%">  
 
 > 그의 삶을 빛으로 채우거라. 더 이상 그가 외롭지 않도록.
 
