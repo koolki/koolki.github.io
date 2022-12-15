@@ -4,9 +4,9 @@ title:  "GitHub Pages Jekyll theme 변경.."
 excerpt: "블로그 테마."
 
 categories:
- - Favorites
+ - Jekyll
 tags:
- - [blog, Jekyll, NexT, minimal]
+ - [blog,Jekyll,NexT,minimal]
 
 toc: true
 toc_sticky: true

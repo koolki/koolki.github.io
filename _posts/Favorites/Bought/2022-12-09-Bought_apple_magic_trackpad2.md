@@ -4,7 +4,7 @@ title:  "Apple Magic Trackpad 2"
 excerpt: "얘네껀 홀리면 사는 거지 뭐."
 
 categories:
- - bought
+ - Bought
 tags:
  - [apple,magictrackpad2]
 

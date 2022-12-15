@@ -4,7 +4,7 @@ title:  "기예르모 델토로(Guillermo Del Toro), 피노키오(Pinocchio)"
 excerpt: "매우 익숙한 이야기를 전혀 새롭게 보여주고 들려주기."
 
 categories:
- - movie
+ - Movie
 tags:
  - [기예르모델토로,피노키오]
 

@@ -4,7 +4,7 @@ title:  "Peanuts iPad pro 11형 파우치"
 excerpt: "평범남이 가진 유일한 덕질의 순간."
 
 categories:
- - bought
+ - Bought
 tags:
  - [peanuts,파우치,아이패드,ipad]
 
