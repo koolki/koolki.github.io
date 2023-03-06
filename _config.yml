@@ -5,8 +5,8 @@
 
 # Site
 title: koolki
-subtitle: 기록하려고 만듦.
-description: 기록.
+subtitle: 사소한 기록.
+description: 개인적인 기록.
 author: koolki
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: ko
@@ -226,9 +226,10 @@ social_icons:
   enable: true
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
+  Google: google
   GitHub: github
-  Twitter: twitter
-  Weibo: weibo
+  Instagram: instagram
+  Facebook: facebook
 
 
 # Sidebar Avatar
@@ -256,8 +257,8 @@ toc:
 
 sidebar:
   # Sidebar Position, available value: left | right
-  position: left
-  #position: right
+  # position: left
+  position: right
 
   # Sidebar Display, available value:
   #  - post    expand on posts automatically. Default.
@@ -568,7 +569,7 @@ calendar:
   orderBy: startTime
   offsetMax: 24
   offsetMin: 4
-  timeZone:
+  timeZone: seoul
   showDeleted: false
   singleEvents: true
   maxResults: 250
