@@ -6,7 +6,7 @@
     font-size: $read-more-font-size;
     background: $read-more-bg-color;
     border-radius: $read-more-border-radius;
-    line-height: 2;
+    line-height: 1;
     margin: 0 4px 0px 4px;
   }
   .btn:hover {
@@ -14,6 +14,6 @@
   }
   .fa-fw {
     width: (18em / 14);
-    text-align: left;
+    text-align: center;
   }
 }
