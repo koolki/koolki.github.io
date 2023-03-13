@@ -1,12 +1,12 @@
 ---
 
 title:  "해방촌 고깃집, GogiBoys(고기보이즈)"
-excerpt: "고기 개 쩌는 곳."
+excerpt: "고기가 개 쩔긴 했는데."
 
 categories:
  - Been
 tags:
- - [해방촌,고깃집]
+ - [해방촌,고깃집,소고기]
 
 toc: true
 toc_sticky: true
@@ -20,3 +20,4 @@ priority : 1.0
 
 ---
 ---
+### 문제는 첫 접시만 개 쩔었다는 것.
