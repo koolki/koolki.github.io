@@ -1,11 +1,11 @@
 .posts-expand .post-title {
-  font-size: 26px;
-  text-align: center;
+  font-size: 18px;
+  text-align: left;
   word-break: break-word;
   font-weight: $posts-expand-title-font-weight;
 
   @include mobile() {
-    font-size: 22px;
+    font-size: 18px;
   }
 }
 .posts-expand .post-title-link {
